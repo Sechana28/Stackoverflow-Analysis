@@ -1,34 +1,28 @@
-# Stackoverflow Analysis Guidelines 
+<h1 align="center"> Stackoverflow Analysis Guidelines </h1>
 
 ![Stackoverflow Logo](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-<img src="https://img.shields.io/github/last-commit/Sanjayviswa/Stackoverflow-Analysis">
-<img src="https://img.shields.io/github/languages/code-size/Sanjayviswa/Stackoverflow-Analysis">
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-## Table of Contents
-1. [Demo Video](#-demo-video)
-2. [Prerequisites](#-prerequisites)
-3. [Installation Steps](#%EF%B8%8F-installation-steps)
-4. [Development](#development)
-5. [Finding Insights from Stack Overflow Developer Survey](#finding-insights-from-stack-overflow-developer-survey)
-6. [Project Goals](#project-goals)
-7. [Data Source and Background](#data-source-and-background)
-8. [Data Format](#data-format)
-9. [Expected Work](#expected-work)
-10. [Contributing](#-contributing)
-11. [License](#%EF%B8%8F-license)
-12. [Thanks to all Contributors](#-thanks-to-all-contributors)
-13. [Support](#-support)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![Last Commit](https://img.shields.io/github/last-commit/Sanjayviswa/Stackoverflow-Analysis) ![Code Size](https://img.shields.io/github/languages/code-size/Sanjayviswa/Stackoverflow-Analysis)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/recodehive/awesome-github-profiles/stargazers"><img src="https://img.shields.io/github/stars/recodehive/awesome-github-profiles" alt="Stars Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/network/members"><img src="https://img.shields.io/github/forks/recodehive/awesome-github-profiles" alt="Forks Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/awesome-github-profiles" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/issues"><img src="https://img.shields.io/github/issues/recodehive/awesome-github-profiles" alt="Issues Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/awesome-github-profiles?color=2b9348"></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/recodehive/awesome-github-profiles?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+This is the all in one place for documentation help regarding the postman challenge.
+</div>
 
 ## 👨‍💻 Demo Video 
 
 [Watch the demo video](https://user-images.githubusercontent.com/30715153/168960157-e9448ea4-206c-44c0-bbd5-5e4770c0411f.mp4)
 
-## 👇 Prerequisites
+## 👇 Prerequisites 
 
 Before installation, please ensure you have the following tools installed:
 
@@ -57,7 +51,7 @@ To perform Analysis on 3 years Stackoverflow dataset to gain insights.
 - Investigate the impact of education/experience/responsibilities on gender inequalities.
 - Examine the impact on participation rates due to different ethnicities.
 - Determine if there is a difference between men's and women's incomes.
-- Analyze the increase in popularity of a language in the current year due to developer’s interest in the previous year.
+- Analyze the increase in popularity of a language in the current year due to the developer’s interest in the previous year.
 
 Stack Overflow is a professional community for developers, conducting an annual survey. Analyzing the dataset professionally using modern tools can enable us to answer real-world questions effectively. The dataset covers 275 questions in total.
 
@@ -99,9 +93,6 @@ Thanks to all contributors for helping this project grow! 🍻
 Don't forget to leave a star ⭐️ for this project!
 
 Crafted with ♥ by @sanjay-kv.
-
-
-Here's a link to the project wiki: https://github.com/tech-hardik/Stackoverflow-Analysis/wiki
 
 [Back to Top](#stackoverflow-analysis-guidelines)
 
